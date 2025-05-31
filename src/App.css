@@ -1,0 +1,11 @@
+.sign-in{
+  background-color: var(--color-green-500);
+  color:white;
+  border-radius: 2rem;
+  transition: ease-in 0.2s;
+}
+
+.Search{
+  background-color: var(--color-green-500);
+  color:white;
+}
